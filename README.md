@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... friendloops and cara care 🌍
+- 🔭 I’m currently working on ... Building simple things 🌍
 - 🌱 I’m currently learning ... AWS, algorithms and data structures 📝
 - 👯 I’m looking to collaborate on ... expo 📱
 - 🤔 I’m looking for help with ... AWS
